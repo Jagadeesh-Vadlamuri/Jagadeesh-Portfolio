@@ -9,7 +9,6 @@ import { GlobalStyles } from "./global";
 function App() {
   return (
     <ThemeProvider theme={chosenTheme}>
-      
       <>
         <GlobalStyles />
         <div>
