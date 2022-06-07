@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A Passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1dezAKeXVOED7O2RFhC1CLzArQUs3n_Z4/view?usp=sharing",
+    "https://drive.google.com/file/d/1bEnqc2FIT1OZnpgoOI4cR_EsfypfxWE9/view?usp=sharing",
   portfolio_repository: "https://github.com/Jagadeesh-Vadlamuri",
   githubProfile: "https://github.com/Jagadeesh-Vadlamuri",
   githubRepos: "https://github.com/Jagadeesh-Vadlamuri?tab=repositories"
@@ -59,18 +59,18 @@ const socialMediaLinks = [
   //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
   //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   // },
-  {
-    name: "Gmail",
-    link: "mailto:jagadeesh.jacky1001@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/randy_jagadeesh", 
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
+  // {
+  //   name: "Gmail",
+  //   link: "mailto:jagadeesh.jacky1001@gmail.com",
+  //   fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
+  //   backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+  // },
+  // {
+  //   name: "Twitter",
+  //   link: "https://twitter.com/randy_jagadeesh", 
+  //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+  //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  // },
   // {
   //   name: "Facebook",
   //   link: "https://www.facebook.com/jagadeesh.randy.3/",
@@ -83,12 +83,12 @@ const socialMediaLinks = [
   //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
   //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   // },
-  {
-    name: "Youtube",
-    link: "https://www.youtube.com/channel/UC4OZsXpxuHqsndPXX1PLH-Q",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "red", // Reference https://simpleicons.org/?q=instagram
-  },
+  // {
+  //   name: "Youtube",
+  //   link: "https://www.youtube.com/channel/UC4OZsXpxuHqsndPXX1PLH-Q",
+  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/instagram?style=brands
+  //   backgroundColor: "red", // Reference https://simpleicons.org/?q=instagram
+  // },
 ];
 
 const skills = {

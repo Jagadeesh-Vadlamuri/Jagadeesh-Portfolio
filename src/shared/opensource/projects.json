@@ -4,8 +4,13 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Quiz-Application",
       "createdAt": "2022-05-01T16:43:54Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-fullstack",
-      "description": "The Application where we can Create, Edit, Delete and Read the questions for QUIZ and play the game with a definite score being setup",
+      "image_path": "https://wallpaperaccess.com/full/3308617.png",
+      "alt": "Quiz Application",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-fullstack",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-backend",
+      "live_app": "https://chipper-pavlova-21e0e4.netlify.app/",
+      
+      "description": "Quiz Application where we can perform the CRUD operations",
       "isFork": false,
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
@@ -18,8 +23,13 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
       "name": "Markdown-Editor",
       "createdAt": "2022-06-11T11:53:55Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-frontend",
-      "description": "This Project would help the web developers to convert the normal text into the HTML text with the simple denotions connected with the words",
+      "image_path": "https://esstudio.site/uploads/md-editor.png",
+      "alt": "Markdown-Editor",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-frontend",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/React-Markdown-Viewer-backend",
+      "live_app": "https://react-markdown-viewer-application.netlify.app/",
+      
+      "description": "Project that helps the web developers to convert the normal text into the HTML text",
       "isFork": false,
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
@@ -31,8 +41,30 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
       "name": "Food-Delivery-Application",
       "createdAt": "2022-05-11T14:11:11Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/food-order",
-      "description": "An application with all kinds of non vegetarian food where the user can add the items into their cart and order them by paying the money",
+      "image_path": "https://ak.picdn.net/shutterstock/videos/1014534347/thumb/6.jpg",
+      "alt": "Food-Delivery-Application",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/Food-Delivery-Frontend",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/food-backend",
+      "live_app": "https://food-delivery-jagsfoods.netlify.app/",
+      
+      "description": "An application with all kinds of non vegetarian food where the user can order them by paying the money",
+      "isFork": false,
+      "languages": [
+        { "name": "React", "iconifyClass": "logos-react" },
+        { "name": "Node", "iconifyClass": "logos-nodejs" },
+        { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "Chat-Application",
+      "createdAt": "2022-05-11T14:11:11Z",
+      "image_path": "https://images.unsplash.com/photo-1611746869696-d09bce200020?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hhdCUyMGFwcHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "alt": "Chat-Application",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/Chat-App-Frontend",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/Chat-App-Backend",
+      "live_app": "https://chat-application-jags.netlify.app/", 
+      "description": "A Casual chat application where 2 or more people in room can chat with each other",
       "isFork": false,
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
@@ -44,8 +76,13 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
       "name": "Census-UserData",
       "createdAt": "2022-06-11T14:11:11Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/census-data-frontend",
-      "description": "An application where the users can create the data themselves and store it in a database and retrieve it later",
+      "image_path": "https://www.freeyourlife.me/wp-content/uploads/2016/08/spiritual-network-logo.png",
+      "alt": "Census-UserData",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/census-data-frontend",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/census-data-server",
+      "live_app": "https://census-userdata.netlify.app/", 
+    
+      "description": "Census Data Creation and it's storage in a tabular format",
       "isFork": false,
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
@@ -57,78 +94,19 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
       "name": "Calculator",
       "createdAt": "2022-01-22T14:24:55Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-1",
-      "description": "A Calculator that calculates all the arithmetic operations with indefinite count of numbers being given on the input text box",
+      "image_path": "http://ak2.picdn.net/shutterstock/videos/463465/thumb/1.jpg",
+      "alt": "Calculator",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-1",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-1",
+      "live_app": "https://confident-boyd-a586e2.netlify.app/", 
+    
+      "description": "A Calculator that calculates all the arithmetic operations",
       "isFork": false,
       "languages": [
         { "name": "HTML", "iconifyClass": "logos-html-5" },
         { "name": "CSS", "iconifyClass": "logos-css-3" },
         { "name": "JavaScript", "iconifyClass": "logos-javascript" }
       ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Form-Submission",
-      "createdAt": "2022-01-24T05:00:56Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-19-Task-2",
-      "description": "This Project would add all the submitted values to the table including the radio buttons and checkboxes",
-      "isFork": false,
-      "languages": [
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" },
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Covid-Data-Fetcher",
-      "createdAt": "2021-12-13T13:13:00Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-25-Task-1",
-      "description": "This Project fetches all the covid data of all the Countries across the world including the deaths and recovered number",
-      "isFork": false,
-      "languages": [
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" },
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Cart-Items",
-      "createdAt": "2022-04-03T17:25:51Z",
-      "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-cart-task",
-      "description": "This application will produce all the items with varios prices and descriptions and all the items gets added to the cart upon addition",
-      "isFork": false,
-      "languages": [
-        { "name": "React", "iconifyClass": "logos-react" },
-        { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" },
-        { "name": "css", "iconifyClass": "logos-css-3" }
-      ]
-    },
-    {
-        "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-        "name": "Employee-CRUD Data",
-        "createdAt": "2022-03-025T17:25:51Z",
-        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-29",
-        "description": "This Project would perform the Creation, Updation, Deletion of all the sample employee data that has been provided in the format of cards",
-        "isFork": false,
-        "languages": [
-          { "name": "React", "iconifyClass": "logos-react" },
-          { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" },
-          { "name": "css", "iconifyClass": "logos-css-3" }
-        ]
-      },
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-        "name": "CRUD Using Axios",
-        "createdAt": "2022-03-13T17:25:51Z",
-        "url": "https://github.com/Jagadeesh-Vadlamuri/Assignment-Day-33",
-        "description": "This application would create all the CRUD Opearations using AXIOS as the library for React framework",
-        "isFork": false,
-        "languages": [
-          { "name": "React", "iconifyClass": "logos-react" },
-          { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" }
-        ]
-      }
+    }
   ]
 }

@@ -29,15 +29,15 @@ export default function Greeting(props) {
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <div style={{display: 'flex', flexDirection: 'row'}}>
-                <Button
+                {/* <Button
                   text="⭐ Star Me On Github"
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
                   className="portfolio-repo-btn"
                   
-                />
-                <div style={{marginLeft:20}}>
+                /> */}
+                <div >
                   <Button
                     text="My Resume"
                     newTab={true}
