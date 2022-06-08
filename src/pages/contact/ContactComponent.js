@@ -14,6 +14,7 @@ const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
 const addressSection = contactPageData.addressSection;
 const phoneSection = contactPageData.phoneSection;
+const emailSection = contactPageData.emailSection;
 
 class Contact extends Component {
   render() {
@@ -118,6 +119,18 @@ class Contact extends Component {
                   style={{ color: theme.secondaryText }}
                 >
                   {phoneSection["subtitle"]}
+                </p>
+                <h1
+                  className="address-heading-text"
+                  style={{ color: theme.text }}
+                >
+                  {emailSection["title"]}
+                </h1>
+                <p
+                  className="contact-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {emailSection["subtitle"]}
                 </p>
                 {/* <div className="address-btn-div">
                   <Button

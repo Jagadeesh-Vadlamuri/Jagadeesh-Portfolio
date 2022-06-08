@@ -697,7 +697,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "I have developed many frontend projects using REACT and 4 Full-Stack projects using MERN Stack with different concepts and ideologies",
+    "I have developed many frontend projects using REACT including 5 Full-Stack projects using MERN Stack with different concepts and ideologies",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -714,7 +714,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "address_image.svg",
     description:
-      "I am available on almost every social media platform. I can respond back to you within 24 hours for your queries",
+      "Please reach out to me via my linkedin below",
   },
   blogSection: {
     title: "Channels",
@@ -734,6 +734,10 @@ const contactPageData = {
     title: "Mobile Number",
     subtitle: "+91 7780482271",
   },
+  emailSection: {
+    title: "Email",
+    subtitle: "jagadeesh.jacky1001@gmail.com"
+  }
 };
 
 export {

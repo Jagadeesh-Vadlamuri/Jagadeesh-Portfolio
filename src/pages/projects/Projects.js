@@ -41,7 +41,14 @@ class Projects extends Component {
                 >
                   {projectsHeader["description"]}
                 </p>
+                <p style={{border: '1px solid blue', textAlign: 'center'}}>
+                <h3>LOGIN CREDENTIALS (Demo)</h3>
+                <h4>Email: <span style={{ color: theme.secondaryText }}>testemail@gmail.com</span></h4>
+                <h4>Password: <span style={{ color: theme.secondaryText }}>Test@123</span></h4>
+                </p>
+                
               </div>
+            
             </div>
           </Fade>
         </div>
