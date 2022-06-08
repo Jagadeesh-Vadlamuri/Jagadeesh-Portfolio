@@ -74,7 +74,7 @@ class Header extends Component {
                 </NavLink>
               </li>
               
-              {/* <li>
+              <li>
                 <NavLink
                   to="/experience"
                   tag={Link}
@@ -85,7 +85,7 @@ class Header extends Component {
                 >
                   Experience
                 </NavLink>
-              </li> */}
+              </li>
               
               {/* <li>
                 <NavLink

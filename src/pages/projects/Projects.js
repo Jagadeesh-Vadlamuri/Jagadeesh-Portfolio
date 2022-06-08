@@ -41,12 +41,23 @@ class Projects extends Component {
                 >
                   {projectsHeader["description"]}
                 </p>
-                <p style={{border: '1px solid blue', textAlign: 'center'}}>
-                <h3>LOGIN CREDENTIALS (Demo)</h3>
-                <h4>Email: <span style={{ color: theme.secondaryText }}>testemail@gmail.com</span></h4>
-                <h4>Password: <span style={{ color: theme.secondaryText }}>Test@123</span></h4>
-                </p>
-                
+                <hr/>
+                <div className="d-flex flex-row justify-content-between align-items-center">
+                  <div>
+                  <h5>LOGIN CREDENTIALS (User)</h5>
+                    <h6>Email: <span style={{ color: theme.secondaryText }}>testemail@gmail.com</span></h6>
+                    <h6>Password: <span style={{ color: theme.secondaryText }}>Test@123</span></h6>
+                  </div>
+                  <div className="mx-4">
+                  <h5>LOGIN CREDENTIALS (Admin)</h5>
+                    <h6>Email: <span style={{ color: theme.secondaryText }}>admin@gmail.com</span></h6>
+                    <h6>Password: <span style={{ color: theme.secondaryText }}>Admin@1234</span></h6>
+                  </div>
+                </div>
+                <div className="my-4 d-flex flex-column justify-content-center align-items-start">
+                  <h6>User Credentials: <span style={{ color: theme.secondaryText }}>Applicable for Food-Delivery, Markdown-Editor, Census-UserData</span></h6>
+                  <h6>Admin Credentials: <span style={{ color: theme.secondaryText }}>Applicable only for Food-Delivery</span></h6>
+                </div>
               </div>
             
             </div>

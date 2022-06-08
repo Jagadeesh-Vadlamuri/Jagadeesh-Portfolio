@@ -560,7 +560,7 @@ const experience = {
   title: "Experience",
   subtitle: "Training, Work",
   description:
-    "I have been working as a Senior Test Engineer in one of the MNC's currently. I have worked on the Test and API automation tools like Selenium, Postman with Selenium frameworks such as 'TestNG', 'Cucumber' leveraging all my skills. Now, I have learnt Full Stack Web Development in GUVI with JavaScript as my primary language and developed many frontend projects and 4 full stack projects with a good web responsiveness",
+    "I have been working as a Senior Test Engineer in one of the MNC's currently. I have worked on the Test and API automation tools like Selenium, Postman with Selenium frameworks such as 'TestNG', 'Cucumber' leveraging all my skills. Now, I have learnt Full Stack Web Development in GUVI with JavaScript as my primary language and developed many frontend projects and 5 full stack projects with a good web responsiveness",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -585,7 +585,7 @@ const experience = {
           duration: "Nov 2021 - Present",
           location: "Hyderabad, Telangana",
           description:
-            "I am very passionate about the web developement right from the initial stages of my tech career. I have learnt the Full Stack Web Development in GUVI and have developed many frontend projects that includes 4 full stack projects as well that leverages all my skills that i have learnt with frontend as REACT, backend as NODE, middleware as EXPRESS and database as MONGO. Apart from this, I have learnt the technologies like HTML 5, CSS 3, JS, Bootstrap and many more frameworks and libraries that helps my code work efficiently in all environments. I have completed 35+ projects that includes React, Node and full stack i.e, (React+Node+Mongo) as a part of my learning and all those commits have been attached in the Open Source tab above",
+            "I am very passionate about the web developement right from the initial stages of my tech career. I have learnt the Full Stack Web Development in GUVI and have developed many frontend projects that includes 5 full stack projects as well that leverages all my skills that i have learnt with frontend as REACT, backend as NODE, middleware as EXPRESS and database as MONGO. Apart from this, I have learnt the technologies like HTML 5, CSS 3, JS, Bootstrap and many more frameworks and libraries that helps my code work efficiently in all environments. I have completed 35+ projects that includes React, Node and full stack i.e, (React+Node+Mongo+Express) as a part of my learning",
           color: "#fc1f20",
         }
         

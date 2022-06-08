@@ -16,9 +16,9 @@ export default function GithubRepoCard({ repo, theme }) {
           className="repo-card-div"
           key={repo.id}
           // onClick={() => openRepoinNewTab(repo.url)}
-          style={{ backgroundColor: theme.highlight}}
+          style={{ backgroundColor: theme.highlight }}
         >
-          <div className="container repo-name-div" >
+          <div className="container repo-name-div">
             {/* <div className="card" style={{width: 200, height: 150}}>
               <img
                 className="card-img-top"
@@ -35,21 +35,77 @@ export default function GithubRepoCard({ repo, theme }) {
               </div>
             </div>
           </div> */}
-          <div className="d-flex flex-column">
-            <img src={repo.image_path} alt={repo.alt} className="card-img-top" style={{width: '350px', height: '180px'}}/>
+            <div className="d-flex flex-column justify-content-center align-items-center">
+              <div className="d-flex justify-content-center">
+              <img
+                src={repo.image_path}
+                alt={repo.alt}
+                className="card-img-top"
+                style={{ width: '330px', height: "180px", textAlign: 'center' }}
+              />
+              </div>
               <p className="repo-name" style={{ color: theme.text }}>
                 {repo.name}
               </p>
-          </div>
-          
+              </div>
+              
+            
           </div>
           <p className="repo-description" style={{ color: theme.text }}>
             {repo.description}
           </p>
-          <a href={repo.live_app} target="_blank"><button className="btn btn-primary" style={{width: 350, height:40, backgroundColor: 'black', color: 'white', fontSize: 20, borderRadius: 5, border: '2px solid black'}}>Live APP</button></a>
-          <div className="d-flex justify-content-between align-items-center" style={{marginTop: 10}}>
-          <a href={repo.frontend} target="_blank"><button style={{width: 170, height:40, backgroundColor: 'black', color: 'white', fontSize: 20, borderRadius: 5, border: '2px solid black', marginRight: 3}}>Frontend</button></a>
-          <a href={repo.backend} target="_blank"><button style={{width: 170, height:40, backgroundColor: 'black', color: 'white', fontSize: 20, borderRadius: 5, border: '2px solid black', marginLeft: 3}}>Backend</button></a>
+          <a href={repo.live_app} target="_blank">
+            <button
+              className="btn btn-primary"
+              style={{
+                width: 350,
+                height: 40,
+                backgroundColor: "black",
+                color: "white",
+                fontSize: 20,
+                borderRadius: 5,
+                border: "2px solid black",
+              }}
+            >
+              Live APP
+            </button>
+          </a>
+          <div
+            className="d-flex justify-content-around align-items-center"
+            style={{ marginTop: 10 }}
+          >
+            <a href={repo.frontend} target="_blank">
+              <button
+                style={{
+                  width: 170,
+                  height: 40,
+                  backgroundColor: "black",
+                  color: "white",
+                  fontSize: 20,
+                  borderRadius: 5,
+                  border: "2px solid black",
+                  marginRight: 3,
+                }}
+              >
+                Frontend
+              </button>
+            </a>
+            <a href={repo.backend} target="_blank">
+              <button
+                style={{
+                  width: 170,
+                  height: 40,
+                  backgroundColor: "black",
+                  color: "white",
+                  fontSize: 20,
+                  borderRadius: 5,
+                  border: "2px solid black",
+                  marginLeft: 3,
+                }}
+              >
+                Backend
+              </button>
+            </a>
           </div>
           {/* <div className="repo-details"> */}
           {/* <p

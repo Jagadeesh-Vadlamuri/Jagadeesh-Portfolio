@@ -1,22 +1,21 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Quiz-Application",
-      "createdAt": "2022-05-01T16:43:54Z",
-      "image_path": "https://wallpaperaccess.com/full/3308617.png",
-      "alt": "Quiz Application",
-      "frontend": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-fullstack",
-      "backend": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-backend",
-      "live_app": "https://chipper-pavlova-21e0e4.netlify.app/",
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "Food-Delivery-Application",
+      "createdAt": "2022-05-11T14:11:11Z",
+      "image_path": "https://ak.picdn.net/shutterstock/videos/1014534347/thumb/6.jpg",
+      "alt": "Food-Delivery-Application",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/Food-Delivery-Frontend",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/food-backend",
+      "live_app": "https://food-delivery-jagsfoods.netlify.app/",
       
-      "description": "Quiz Application where we can perform the CRUD operations",
+      "description": "An application with all kinds of non vegetarian food where the user can order them by paying the money",
       "isFork": false,
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
         { "name": "Node", "iconifyClass": "logos-nodejs" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" }
-        
+        { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" }
       ]
     },
     {
@@ -39,15 +38,15 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "Food-Delivery-Application",
-      "createdAt": "2022-05-11T14:11:11Z",
-      "image_path": "https://ak.picdn.net/shutterstock/videos/1014534347/thumb/6.jpg",
-      "alt": "Food-Delivery-Application",
-      "frontend": "https://github.com/Jagadeesh-Vadlamuri/Food-Delivery-Frontend",
-      "backend": "https://github.com/Jagadeesh-Vadlamuri/food-backend",
-      "live_app": "https://food-delivery-jagsfoods.netlify.app/",
-      
-      "description": "An application with all kinds of non vegetarian food where the user can order them by paying the money",
+      "name": "Census-UserData",
+      "createdAt": "2022-06-11T14:11:11Z",
+      "image_path": "https://www.freeyourlife.me/wp-content/uploads/2016/08/spiritual-network-logo.png",
+      "alt": "Census-UserData",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/Census-Frontend",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/Census-Backend",
+      "live_app": "https://census-user-data.netlify.app/", 
+    
+      "description": "Census Data Creation and it's storage in a tabular format",
       "isFork": false,
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
@@ -73,21 +72,22 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "Census-UserData",
-      "createdAt": "2022-06-11T14:11:11Z",
-      "image_path": "https://www.freeyourlife.me/wp-content/uploads/2016/08/spiritual-network-logo.png",
-      "alt": "Census-UserData",
-      "frontend": "https://github.com/Jagadeesh-Vadlamuri/Chat-Frontend",
-      "backend": "https://github.com/Jagadeesh-Vadlamuri/Chat-Backend",
-      "live_app": "https://census-user-data.netlify.app/", 
-    
-      "description": "Census Data Creation and it's storage in a tabular format",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Quiz-Application",
+      "createdAt": "2022-05-01T16:43:54Z",
+      "image_path": "https://wallpaperaccess.com/full/3308617.png",
+      "alt": "Quiz Application",
+      "frontend": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-fullstack",
+      "backend": "https://github.com/Jagadeesh-Vadlamuri/quiz-app-backend",
+      "live_app": "https://chipper-pavlova-21e0e4.netlify.app/",
+      
+      "description": "Quiz Application where we can perform the CRUD operations",
       "isFork": false,
       "languages": [
         { "name": "React", "iconifyClass": "logos-react" },
         { "name": "Node", "iconifyClass": "logos-nodejs" },
-        { "name": "Bootstrap", "iconifyClass": "logos-bootstrap" }
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
+        
       ]
     },
     {
