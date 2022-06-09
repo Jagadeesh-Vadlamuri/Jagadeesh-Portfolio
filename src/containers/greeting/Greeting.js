@@ -17,7 +17,7 @@ export default function Greeting(props) {
               <h1 className="greeting-text" style={{ color: theme.text }}>
                 {greeting.title}
               </h1>
-              <h2 className="greeting-nickname" style={{ color: theme.text }}>
+              <h2 className="greeting-nickname my-4" style={{ color: theme.text }}>
                 ( {greeting.nickname} )
               </h2>
               <p
