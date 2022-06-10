@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A Passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1bEnqc2FIT1OZnpgoOI4cR_EsfypfxWE9/view?usp=sharing",
+    "https://drive.google.com/file/d/1zHUj9HnHyBaqCcwBGKclTNqzlxVd_Y46/view?usp=sharing",
   portfolio_repository: "https://github.com/Jagadeesh-Vadlamuri",
   githubProfile: "https://github.com/Jagadeesh-Vadlamuri",
   githubRepos: "https://github.com/Jagadeesh-Vadlamuri?tab=repositories"
