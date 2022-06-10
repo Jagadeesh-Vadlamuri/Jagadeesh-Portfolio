@@ -61,7 +61,7 @@ class Projects extends Component {
                 </div>
                 <div className="my-4 d-flex flex-column justify-content-center align-items-start">
                   <h6>User Credentials: <span style={{ color: theme.secondaryText }}>Applicable for Food-Delivery, Markdown-Editor, Census-UserData</span></h6>
-                  <h6>Chat-App Credentials: <span style={{ color: theme.secondaryText }}>Applicable for only Chat-App</span></h6>
+                  <h6>Chat Credentials: <span style={{ color: theme.secondaryText }}>Applicable for only Chat-App</span></h6>
                   <h6>Admin Credentials: <span style={{ color: theme.secondaryText }}>Applicable only for Food-Delivery</span></h6>
                 </div>
               </div>
